@@ -1,5 +1,5 @@
 import { useApi } from "../hooks/useApi"
-import ImageItem from "./imageItem"
+import ImageItem from "./ImageItem"
 
 interface props{
     category:string
